@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Full questions to :gun: candidates interview.
+> Full questions to :gun: candidates in interviews.
 
 ### Table of Contents
 
